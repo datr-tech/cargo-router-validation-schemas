@@ -1,6 +1,6 @@
 {
   "name": "@datr.tech/cargo-router-validation-schemas",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "private": false,
   "description": "Cargo router validation schemas for proc",
   "keywords": [
