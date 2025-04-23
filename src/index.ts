@@ -1,1 +1,1 @@
-export * from './schemasPerService';
+export * from './schemas';
