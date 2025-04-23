@@ -47,12 +47,12 @@
     "format:test": "npx prettier --write './test/**/*.{json,ts}'"
   },
   "dependencies": {
-    "@datr.tech/cargo-router-validation-schemas-dolomite": "^0.3.1",
-    "@datr.tech/cargo-router-validation-schemas-entity": "^0.3.1",
-    "@datr.tech/cargo-router-validation-schemas-freight": "^0.3.1",
-    "@datr.tech/cargo-router-validation-schemas-granul8": "^0.3.1",
-    "@datr.tech/cargo-router-validation-schemas-persona": "^0.3.1",
-    "@datr.tech/cargo-router-validation-schemas-proc": "^0.3.1",
+    "@datr.tech/cargo-router-validation-schemas-dolomite": "^0.4.1",
+    "@datr.tech/cargo-router-validation-schemas-entity": "^0.4.0",
+    "@datr.tech/cargo-router-validation-schemas-freight": "^0.4.0",
+    "@datr.tech/cargo-router-validation-schemas-granul8": "^0.4.0",
+    "@datr.tech/cargo-router-validation-schemas-persona": "^0.4.0",
+    "@datr.tech/cargo-router-validation-schemas-proc": "^0.4.0",
     "@types/node": "^22.7.6"
   },
   "devDependencies": {
